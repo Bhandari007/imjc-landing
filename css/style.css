@@ -3,6 +3,8 @@
     word-spacing: 5px;
     text-transform: capitalize;
 }
-#push{
-    margin-left:400px;
+.quote{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
